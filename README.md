@@ -1,4 +1,4 @@
-# 👋🏻 Olá Bem Vindo(a/e)!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Seja+bem+vind(a%2Fe)+!)](https://git.io/typing-svg)
 
 ## 🧑🏽‍💻 Sobre mim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesstna/)
