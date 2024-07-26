@@ -1,6 +1,8 @@
 # 👋🏻 Olá Bem Vindo(a/e)!
 
-## 🧑🏽‍💻 Sobre mim
+## 🧑🏽‍💻 Sobre mim:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesstna/)
+![](https://komarev.com/ghpvc/?username=selrahcsanl&style=flat-square)
 
 Meu nome é Charles Santana,sou apaixonado por informática desde criança. Influenciado por parentes, comecei a escrever programas simples em Pascal e Basic. Hoje, aos 36 anos, após passar por diversas profissões fora da área de TI, percebi que essa é minha verdadeira vocação. Sou motivado por desafios e sou um usuário dedicado do Debian Linux. Atualmente, estou cursando Defesa Cibernética pela Estácio e contribuo com um projeto Linux chamado TigerOS.
 
