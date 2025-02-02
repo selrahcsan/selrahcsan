@@ -4,7 +4,6 @@
 
 # Olá, Bem vindo ao meu Github 👋
 
-- 👔 Gerente de Tec. em Redes - Prefeitura Municipal de Lages SC.
 - 🛡️ Defesa Cibernética (3/5) - Estácio de Sá
 - 🐧 Apaixonado por Linux e FOSS.
 - 🎸 Músico nas horas vagas.
