@@ -7,7 +7,7 @@
 - 🛡️ Defesa Cibernética (3/5) - Estácio de Sá
 - 🐧 Apaixonado por Linux e FOSS.
 - 🎸 Músico nas horas vagas.
-- 💾 Gosto de tencologias retros.
+- 💾 Gosto de tecnologias retros.
 - 🐯 Contribuo no projeto TigerOS.
 
 ###
