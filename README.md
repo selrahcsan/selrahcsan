@@ -2,7 +2,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo!"/>
 </p>
 
-# 👋 Olá, seja bem-vindo ao meu GitHub!
+# 👋 Olá, seja bem-vindo/a/e!
 
 - 🛡️ Estudante de **Defesa Cibernética** (4° período) - Estácio de Sá  
 - 🐧 Entusiasta de **Linux** e **Software Livre**  
