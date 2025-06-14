@@ -4,7 +4,7 @@
 
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-- 🛡️ Estudante de **Defesa Cibernética** (8º período) - Estácio de Sá  
+- 🛡️ Estudante de **Defesa Cibernética** (4° período) - Estácio de Sá  
 - 🐧 Entusiasta de **Linux** e **Software Livre**  
 - 🎸 **Músico** nas horas vagas  
 - 💾 Apaixonado por **tecnologia retrô**  
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal">
   </a>
   <a href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FcSQYB-2aQldcMtfFoFM1ey0ILN2w_JQy%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAabJCSOPYAbHL7sRwH5QgT96t31dp2XZWaAJK8dGB0nI%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion" target="_blank">
-    <img src="https://img.shields.io/badge/SimpleX-000000?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64_DO_LOGO>&logoColor=white" alt="SimpleX Chat">
+    <img src="https://img.shields.io/badge/SimpleX%20Chat-000000?style=for-the-badge" alt="SimpleX Chat">
   </a>
 </div>
 
