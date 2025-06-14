@@ -8,7 +8,7 @@
 - 🐧 Apaixonado por Linux e FOSS.
 - 🎸 Músico nas horas vagas.
 - 💾 Gosto de tecnologias retros.
-- 🐯 Contribuo no projeto TigerOS.
+- 🐯 Contribuo no projeto [TigerOS](https://tigeros.com.br/).
 
 ###
 
