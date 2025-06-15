@@ -59,13 +59,10 @@ title: Charles Santana
   - [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
   - [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
 
-
-
-
 ## 🌐 Contato & Redes Sociais
 
 <div align="center">
-  <a href="https://mastodon.social/@charlesstna" target="_blank">
+  <a rel="me" href="https://mastodon.social/@charlesstna" target="_blank">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
   </a>
   <a href="https://signal.me/#eu/4L3AX9j8C1E2fJd_5DVxyYjDds4F1s_jSRViEDfWhazXLJpbG15HF5uZLAPnyfkm" target="_blank">
