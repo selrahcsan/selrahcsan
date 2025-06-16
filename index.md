@@ -57,6 +57,17 @@
 
 ---
 
+## 🔧 Projetos de Melhorias e Desenvolvimento de Ferramentas para o TigerOS 
+
+  - [📦 Conteiner‑TigerOS](https://github.com/selrahcsan/Conteiner-TigerOS) — Dockerfile para imagem do TigerOS <br/>
+  - [🔧 instalador‑de‑fontes](https://github.com/selrahcsan/instalador-de-fontes) — Utilitário para instalar fontes no TigerOS<br/>
+  - [🐧 TigerDrivers](https://github.com/selrahcsan/TigerDrivers) — Ferramenta de instalação de drivers no TigerOS<br/>
+  - [🎛 welcome‑qt‑beta](https://github.com/selrahcsan/welcome-qt-beta) — Interface em C++ para boas-vindas no TigerOS<br/>
+  - [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
+  - [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
+
+
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -72,16 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selrahcsan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
   
 </div>
-
-## 🔧 Projetos de Melhorias e Desenvolvimento de ferramentas para o TigerOS 
-
-  - [📦 Conteiner‑TigerOS](https://github.com/selrahcsan/Conteiner-TigerOS) — Dockerfile para imagem do TigerOS <br/>
-  - [🔧 instalador‑de‑fontes](https://github.com/selrahcsan/instalador-de-fontes) — Utilitário para instalar fontes no TigerOS<br/>
-  - [🐧 TigerDrivers](https://github.com/selrahcsan/TigerDrivers) — Ferramenta de instalação de drivers no TigerOS<br/>
-  - [🎛 welcome‑qt‑beta](https://github.com/selrahcsan/welcome-qt-beta) — Interface em C++ para boas-vindas no TigerOS<br/>
-  - [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
-  - [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo!" />
