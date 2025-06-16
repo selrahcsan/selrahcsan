@@ -73,7 +73,7 @@
 </div>
 
 <p align="center">
-  </br><img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
 </p>
 
 <p align="center">
