@@ -24,10 +24,8 @@
   </a>
   <a href="https://bolha.dev/charlesstna" target="_blank">
     <img src="https://img.shields.io/badge/Bolha.Deb-ff5e5b?style=for-the-badge&logo=debian&logoColor=white" alt="Bolha.Deb">
-  </a>
+  </a></br></br>
 </div>
-
-# 
 
 # 👋 Olá, seja bem-vindo/a/e!
 
@@ -36,8 +34,6 @@
 - 🎸 Músico nas horas vagas;
 - 💾 Entusiasta de tecnologias retrô;
 - 🐯 Colaborador no projeto [TigerOS](https://tigeros.com.br).
-
----
 
 ## 🚀 Tecnologias & Linguagens
 
@@ -52,8 +48,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
-
 ## 🔧 Projetos de Melhorias e Desenvolvimento de Ferramentas para o TigerOS 
 
   - [📦 Conteiner‑TigerOS](https://github.com/selrahcsan/Conteiner-TigerOS) — Dockerfile para imagem do TigerOS <br/>
@@ -62,8 +56,6 @@
   - [🎛 welcome‑qt‑beta](https://github.com/selrahcsan/welcome-qt-beta) — Interface em C++ para boas-vindas no TigerOS<br/>
   - [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
   - [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
-
-
 
 ## 📊 Estatísticas do GitHub
 
@@ -78,19 +70,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selrahcsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selrahcsan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  
 </div>
 
-###
-
-###
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
+  </br><img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo!" />
 </p>
-
-
