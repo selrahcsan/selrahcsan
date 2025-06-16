@@ -6,10 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo!" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
-</p>
-
 <div align="center">
   <a rel="me" href="https://mastodon.social/@charlesstna" target="_blank">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
@@ -30,6 +26,7 @@
     <img src="https://img.shields.io/badge/Bolha.Deb-ff5e5b?style=for-the-badge&logo=debian&logoColor=white" alt="Bolha.Deb">
   </a>
 </div>
+
 # 
 
 # 👋 Olá, seja bem-vindo/a/e!
@@ -83,6 +80,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selrahcsan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
   
 </div>
+
+###
+
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo!" />
