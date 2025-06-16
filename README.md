@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-'the-badge" />
 </div>
 
 ---
@@ -65,6 +65,10 @@
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitors"/>
+</p>
 
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Obrigado!"/>
