@@ -24,7 +24,7 @@
   </a>
   <a href="https://bolha.dev/charlesstna" target="_blank">
     <img src="https://img.shields.io/badge/Bolha.Deb-ff5e5b?style=for-the-badge&logo=debian&logoColor=white" alt="Bolha.Deb">
-  </a></br></br>
+  </a><
 </div>
 
 # 👋 Olá, seja bem-vindo/a/e!
