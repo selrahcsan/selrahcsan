@@ -29,7 +29,7 @@
 
 # 👋 Olá, seja bem-vindo/a/e!
 
-- 🛡️ Graduando em Defesa Cibernética (4/5) - Centro Universitário Estácio de Santa Catarina;  
+- 🛡️ Graduando em Defesa Cibernética (4/5) - Centro Universitário Estácio de Santa Catarina;
 - 🐧 Apaixonado por Linux, Software Livre e Open Source;
 - 🎸 Músico nas horas vagas;
 - 💾 Entusiasta de tecnologias retrô;
@@ -37,25 +37,42 @@
 
 ## 🚀 Tecnologias & Linguagens
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<div align="center">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" />
 
-## 🔧 Projetos de Melhorias e Desenvolvimento de Ferramentas para o TigerOS 
+  <!-- Plataformas / SOs -->
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-openSUSE-73BA25?logo=opensuse&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Parrot%20OS-0085b2?logo=parrotsecurity&logoColor=white&style=for-the-badge" />
 
-  - [📦 Conteiner‑TigerOS](https://github.com/selrahcsan/Conteiner-TigerOS) — Dockerfile para imagem do TigerOS <br/>
-  - [🔧 instalador‑de‑fontes](https://github.com/selrahcsan/instalador-de-fontes) — Utilitário para instalar fontes no TigerOS<br/>
-  - [🐧 TigerDrivers](https://github.com/selrahcsan/TigerDrivers) — Ferramenta de instalação de drivers no TigerOS<br/>
-  - [🎛 welcome‑qt‑beta](https://github.com/selrahcsan/welcome-qt-beta) — Interface em C++ para boas-vindas no TigerOS<br/>
-  - [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
-  - [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</div>
+
+## 🔧 Projetos de Melhorias e Desenvolvimento de Ferramentas para o TigerOS
+
+- [📦 Conteiner‑TigerOS](https://github.com/selrahcsan/Conteiner-TigerOS) — Dockerfile para imagem do TigerOS <br/>
+- [🔧 instalador‑de‑fontes](https://github.com/selrahcsan/instalador-de-fontes) — Utilitário para instalar fontes no TigerOS<br/>
+- [🐧 TigerDrivers](https://github.com/selrahcsan/TigerDrivers) — Ferramenta de instalação de drivers no TigerOS<br/>
+- [🎛 welcome‑qt‑beta](https://github.com/selrahcsan/welcome-qt-beta) — Interface em C++ para boas-vindas no TigerOS<br/>
+- [📝 vimrc](https://github.com/selrahcsan/vimrc) — Minhas configurações personalizadas para Vim.<br/>
+- [📦 deb‑manager‑gui](https://github.com/selrahcsan/deb-manager-gui) — Interface gráfica em Python para instalação de pacotes (.deb)<br/>
 
 ## 📊 Estatísticas do GitHub
 
