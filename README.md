@@ -32,9 +32,9 @@
 # 👋 Olá, seja bem-vindo/a/e!
 
 - 🛡️ Estudante de **Defesa Cibernética** (4° período) - Centro Universitário Estácio de Santa Catarina
-- 🐧 Entusiasta de **Linux** e **Software Livre**  
-- 🎸 **Músico** nas horas vagas  
-- 💾 Apaixonado por **tecnologia retrô**  
+- 🐧 Entusiasta de **Linux** e **Software Livre**
+- 🎸 **Músico** nas horas vagas
+- 💾 Apaixonado por **tecnologia retrô**
 - 🐯 Colaborador do projeto [**TigerOS**](https://tigeros.com.br/)
 
 ---
@@ -42,13 +42,31 @@
 ## 🚀 Tecnologias & Linguagens
 
 <div align="center">
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-'the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" />
+
+  <!-- Plataformas / SOs -->
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-openSUSE-73BA25?logo=opensuse&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Parrot%20OS-0085b2?logo=parrotsecurity&logoColor=white&style=for-the-badge" />
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
