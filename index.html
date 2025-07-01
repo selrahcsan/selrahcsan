@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>selrahcsan | Portfólio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #fdfdfd;
+      --text: #111;
+      --accent: #0a84ff;
+      --card: #f0f0f0;
+      --hover: #e3f2ff;
+      --divider-start: #0a84ff;
+      --divider-end: #d63384;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1c1c1c;
+        --text: #f5f5f5;
+        --accent: #58a6ff;
+        --card: #2c2c2c;
+        --hover: #2f3b50;
+        --divider-start: #58a6ff;
+        --divider-end: #f778ba;
+      }
+    }
+
+    body {
+      font-family: 'Fira Code', monospace;
+      background: var(--bg);
+      color: var(--text);
+      padding: 2rem 1rem;
+    }
+
+    .avatar {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      border: 3px solid var(--accent);
+    }
+
+    .divider {
+      height: 2px;
+      background: linear-gradient(to right, var(--divider-start), var(--divider-end));
+      width: 60%;
+      margin: 2rem auto;
+      border-radius: 10px;
+    }
+
+    .badges a img {
+      margin: 0.3rem;
+      transition: transform 0.2s ease;
+    }
+
+    .badges a:hover img {
+      transform: scale(1.05);
+    }
+
+    .card-custom {
+      background: var(--card);
+      border: none;
+      border-radius: 12px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.3s ease;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+      height: 100%;
+    }
+
+    .card-custom:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      background: var(--hover);
+    }
+
+    .card-title a {
+      text-decoration: none;
+      color: var(--accent);
+    }
+
+    .card-text {
+      color: inherit;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    @media (max-width: 576px) {
+      h1 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container text-center">
+    <img src="https://avatars.githubusercontent.com/u/104267110?v=4" alt="Avatar" class="avatar mb-3" />
+    <h1 class="fw-bold">@selrahcsan</h1>
+    <p class="lead">
+      Graduando em <strong>Defesa Cibernética</strong> (4º período) pelo Centro Universitário Estácio, entusiasta de
+      <strong>Linux</strong>, <strong>Software Livre, Open Source</strong> e <strong>tecnologia retrô</strong>. Músico nas horas vagas e colaborador no
+      projeto <a href="https://tigeros.com.br" target="_blank">TigerOS</a>.
+    </p>
+
+    <div class="divider"></div>
+
+    <div class="badges mb-4">
+      <a href="https://mastodon.social/@charlesstna"><img
+          src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" /></a>
+      <a href="https://signal.me/#eu/4L3AX9j8C1E2fJd_5DVxyYjDds4F1s_jSRViEDfWhazXLJpbG15HF5uZLAPnyfkm"><img
+          src="https://img.shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=white" /></a>
+      <a href="https://simplex.chat/"><img src="https://img.shields.io/badge/SimpleX-000000?style=flat" /></a>
+      <a href="https://github.com/selrahcsan"><img
+          src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://gitlab.com/charlesstna"><img
+          src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" /></a>
+      <a href="https://codeberg.org/charlesstna"><img
+          src="https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white" /></a>
+      <a href="https://bolha.dev/charlesstna"><img
+          src="https://img.shields.io/badge/Bolha.dev-ff5e5b?style=flat&logo=debian&logoColor=white" /></a>
+    </div>
+
+    <h2 class="fw-bold mb-4">📌 Projetos em Destaque</h2>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/ohmygitlinks">Oh My Git ! Links ....</a></h5>
+            <p class="card-text">Site estilo Link-in-bio pages</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/Conteiner-TigerOS">Conteiner-TigerOS</a></h5>
+            <p class="card-text">Contêiner Docker do sistema TigerOS com ferramentas educacionais pré-configuradas.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/TigerDrivers">TigerDrivers</a></h5>
+            <p class="card-text">Instalador de drivers para impressoras no TigerOS e distribuições Debian-like.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/deb-manager-gui">deb-manager-gui</a></h5>
+            <p class="card-text">Interface gráfica em Python para instalação de pacotes `.deb` localmente.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/welcome-qt-beta">welcome-qt-beta</a></h5>
+            <p class="card-text">Aplicativo de boas-vindas em Qt para ambientes educacionais baseados em Linux.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-custom h-100">
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/instalador-de-fontes">instalador-de-fontes</a></h5>
+            <p class="card-text">Script para facilitar a instalação de fontes personalizadas no sistema.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
