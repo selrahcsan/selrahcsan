@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo" width="80%" />
+  <img src="https://avatars.githubusercontent.com/u/104267110?v=4" width="150" height="150" style="border-radius: 50%;" alt="Avatar" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitas" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bem-vindo" width="80%" />
 </p>
 
 <div align="center">
@@ -26,6 +27,10 @@
     <img src="https://img.shields.io/badge/Bolha.dev-ff5e5b?style=flat-square&logo=debian&logoColor=white" alt="Bolha.dev" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selrahcsan&style=flat-square&color=blue" alt="visitas" />
+</p>
 
 ## 👋 Olá, seja bem-vindo(a/e)!
 
