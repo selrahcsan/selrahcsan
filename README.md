@@ -64,8 +64,6 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/selrahcsan/selrahcsan/output/github-contribution-grid-snake.svg)
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
