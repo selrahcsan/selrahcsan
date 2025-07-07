@@ -32,10 +32,29 @@
 
     body {
       font-family: 'Fira Code', monospace;
-      background: var(--bg);
+      background: linear-gradient(135deg, #3daee9, #60c6f5, #eff0f1);
+      background-size: 200% 200%;
+      margin: 0;
+      height: 100vh;
+      animation: moveGradient 10s ease infinite;
       color: var(--text);
       padding: 2rem 1rem;
     }
+
+    @keyframes moveGradient {
+      0% {
+        background-position: 0% 50%;
+      }
+
+      50% {
+        background-position: 100% 50%;
+      }
+
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
 
     .avatar {
       width: 140px;
@@ -63,7 +82,7 @@
 
     .card-custom {
       background: var(--card);
-      color: var(--text); 
+      color: var(--text);
       border: none;
       border-radius: 12px;
       transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.3s ease;
@@ -102,10 +121,12 @@
   <div class="container text-center">
     <img src="https://avatars.githubusercontent.com/u/104267110?v=4" alt="Avatar" class="avatar mb-3" />
     <h1 class="fw-bold">Charles Santana</h1>
-    <iframe src="https://github.com/sponsors/selrahcsan/button" title="Sponsor selrahcsan" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+    <iframe src="https://github.com/sponsors/selrahcsan/button" title="Sponsor selrahcsan" height="32" width="114"
+      style="border: 0; border-radius: 6px;"></iframe>
     <p class="lead">
       Graduando em <strong>Defesa Cibernética</strong> (4º período) pelo Centro Universitário Estácio, entusiasta de
-      <strong>Linux</strong>, <strong>Software Livre, Open Source</strong> e <strong>tecnologia retrô</strong>. Músico nas horas vagas e colaborador no
+      <strong>Linux</strong>, <strong>Software Livre, Open Source</strong> e <strong>tecnologia retrô</strong>. Músico
+      nas horas vagas e colaborador no
       projeto <a href="https://tigeros.com.br" target="_blank">TigerOS</a>.
     </p>
 
@@ -178,7 +199,8 @@
       <div class="col">
         <div class="card card-custom h-100">
           <div class="card-body">
-            <h5 class="card-title"><a href="https://github.com/selrahcsan/instalador-de-fontes">instalador-de-fontes</a></h5>
+            <h5 class="card-title"><a href="https://github.com/selrahcsan/instalador-de-fontes">instalador-de-fontes</a>
+            </h5>
             <p class="card-text">Script para facilitar a instalação de fontes personalizadas no TigerOS.</p>
           </div>
         </div>
