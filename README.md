@@ -19,7 +19,7 @@
 
 ---
 
-# 👋 Olá, seja bem-vindo(a/e)!
+# 👋 Olá
 
 - 🎓 Estudante de **Defesa Cibernética** – 4° período
 - 🐧 Aficionado por **Linux**, **Software Livre** e cultura hacker
