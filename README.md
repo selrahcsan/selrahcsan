@@ -21,7 +21,7 @@
 
 # 👋 Olá
 
-- 🎓 Estudante de **Defesa Cibernética** – 4° período
+- 🎓 Estudante de **Defesa Cibernética** pela Estácio de Sá– 4° período
 - 🐧 Aficionado por **Linux**, **Software Livre** e cultura hacker
 - 💾 Entusiasta de **tecnologia retrô**
 - 🎸 **Músico** nas horas vagas
