@@ -65,18 +65,10 @@
 <div align="center">
 
 <!-- Troféus em duas linhas -->
-<img src="https://github-profile-trophy.vercel.app/?username=selrahcsan&theme=flat&no-bg=true&margin-w=10&row=2&column=3" alt="Trophies" />
-
-<br/><br/>
-
-<!-- Contribuições e linguagens -->
-<img src="https://streak-stats.demolab.com?user=selrahcsan&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="Streak Stats" height="220" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=selrahcsan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selrahcsan&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=selrahcsan&theme=flat&no-bg=true&margin-w=10&row=2&column=3" alt="Trophies" /></br>
+  <!-- <img src="https://streak-stats.demolab.com?user=selrahcsan&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="Streak Stats" height="220" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=selrahcsan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selrahcsan&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
 </div>
 
 ---
