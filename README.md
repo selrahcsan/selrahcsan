@@ -21,11 +21,10 @@
 
 # 👋 Olá
 
-- 🎓 Estudante de **Defesa Cibernética** pela Estácio de Sá– 5° período
+- 🎓 Graduado em **Defesa Cibernética** pelo Centro Universitário Estácio de Santa Catarina
 - 🐧 Aficionado por **Linux**, **Software Livre** e cultura hacker
 - 💾 Entusiasta de **tecnologia retrô**
 - 🎸 **Músico** nas horas vagas
-- 🐯 Colaborador do projeto [**TigerOS**](https://tigeros.com.br/)
 
 ---
 
